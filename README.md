@@ -1,2 +1,27 @@
-# cnpoems
-🇨🇳 唐诗宋词(诗歌，论语，诗经等) (Chinese poems util)
+## 安装
+```js
+npm install cnpoems
+```
+
+## ES Modules
+```js
+import cnpoems from 'cnpoems';
+```
+
+## CommonJS 
+```js
+const cnpoems = require('cnpoems');
+```
+## Api  
+```js
+songciAuthors
+tangsiAuthors
+songciList
+songciTradList
+tangshiList
+tangshiSimpleList
+tangshiTradList
+getRandomItems
+songciRandomList
+tangshiRandomList
+```
